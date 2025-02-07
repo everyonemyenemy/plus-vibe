@@ -12,7 +12,7 @@ header {
     text-align: center;
     position: fixed; 
     width: 100%; 
-    top: -27px; 
+    top: 100px; 
     z-index: 1000; 
 }
 
